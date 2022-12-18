@@ -52,3 +52,60 @@ header{
     height: 150px;
 }
 
+
+/*  acima codgos do header e abaixo codgos da tag main    */
+
+main{
+    display: flex;
+}
+.divmain{
+    background-color: black;
+    
+    width: 50%;
+    height: 81vh;
+
+}
+
+.imagemlibras{
+    width: 100%;
+}
+.imagemnetflix{
+    margin-top:125px;
+    width: 100%;
+}
+
+.divmain1{
+    background-color: black;
+    
+    width:50%;
+    height: 81vh;
+
+}
+.quemSomos{
+    background-color: beige;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+.nossoProjeto{
+    background-color: rgb(247, 247, 42);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+
+}
+.contato{
+    background-color: beige;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+
+/*  codgos da tag footer o rodape    */
+
+footer{
+    margin-top: 5px;
+    text-align: center;
+    background-color: #fbb304;
+}
